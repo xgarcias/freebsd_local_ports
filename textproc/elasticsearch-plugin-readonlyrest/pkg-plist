@@ -1,0 +1,13 @@
+lib/elasticsearch/plugins/readonlyrest/guava-21.0.jar
+lib/elasticsearch/plugins/readonlyrest/netty-buffer-4.1.7.Final.jar
+lib/elasticsearch/plugins/readonlyrest/netty-codec-4.1.7.Final.jar
+lib/elasticsearch/plugins/readonlyrest/netty-codec-http-4.1.7.Final.jar
+lib/elasticsearch/plugins/readonlyrest/netty-common-4.1.7.Final.jar
+lib/elasticsearch/plugins/readonlyrest/netty-handler-4.1.7.Final.jar
+lib/elasticsearch/plugins/readonlyrest/netty-resolver-4.1.7.Final.jar
+lib/elasticsearch/plugins/readonlyrest/netty-transport-4.1.7.Final.jar
+lib/elasticsearch/plugins/readonlyrest/plugin-descriptor.properties
+lib/elasticsearch/plugins/readonlyrest/plugin-security.policy
+lib/elasticsearch/plugins/readonlyrest/readonlyrest-1.14.1_es5.3.0.jar
+lib/elasticsearch/plugins/readonlyrest/transport-netty4-client-5.3.0.jar
+lib/elasticsearch/plugins/readonlyrest/unboundid-ldapsdk-3.2.0.jar
